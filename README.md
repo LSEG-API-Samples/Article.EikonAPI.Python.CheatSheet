@@ -1,6 +1,6 @@
 # Eikon Data API(Python) - Cheat Sheet
 
-This Jupyter Notebook accompanies the article titled ["Eikon Data API - Cheat Sheet"](https://developers.refinitiv.com/) on Refinitiv Developer Portal.
+This Jupyter Notebook accompanies the article titled ["Eikon Data API - Cheat Sheet"](https://developers.refinitiv.com/en/article-catalog/article/eikon-data-api-cheat-sheet) on Refinitiv Developer Portal.
 
 **Pre-requisites:** 
 
